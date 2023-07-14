@@ -25,6 +25,6 @@ Number of students registered in AI course: 2
 Number of students registered in Math course: 1
 Number of students registered in Prog course: 1
 ```
-*Note: In order to access the first component repository, please [visit] (https://github.com/PeterIsaacc/comp-1).*
+*Note: In order to access the first component repository, please [visit] (https://github.com/PeterIsaacc/Student-Registration-System-comp-1).*
 ---
 *Note: Make sure you have the first component up and running before using the second component to retrieve statistics.*
